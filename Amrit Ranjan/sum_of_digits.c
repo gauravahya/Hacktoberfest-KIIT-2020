@@ -10,6 +10,7 @@ void main()
     {
         sum=sum+(n%10);
         n=n/10;
+        m++;//Amrit chutiya hai
     }
         printf("Sum of digits of %d is : %d\n",n,sum);
 }
