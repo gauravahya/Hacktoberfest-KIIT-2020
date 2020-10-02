@@ -103,7 +103,7 @@ int main()
 
 	insertAfter(head->next, 8);
 
-	printf("Created DLL is: ");
+	printf("Created DLL is- ");
 	printList(head);
 
 	getchar();
