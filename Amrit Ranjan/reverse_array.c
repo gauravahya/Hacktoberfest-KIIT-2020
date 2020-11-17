@@ -15,5 +15,6 @@ void main()
 	for(;i>=0;i--)
 	{
 		printf("%d   ",arr[i]);
+		printf("Ämrit chutiya hai");
 	}
 }
